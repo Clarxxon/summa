@@ -15,8 +15,9 @@
     top: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(-45deg, #ee7752, #23a6d5, #23a6d5, #23d5ab);
-    background-size: 400% 400%;
+    background-color: #3557ae;
+    /* background: linear-gradient(-45deg, #db6d4b, #1a7799, #23a6d5, #23d5ab);
+    background-size: 400% 400%; */
     animation: gradient 7s ease infinite;
     z-index:-1;
     }
